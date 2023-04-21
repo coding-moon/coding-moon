@@ -1,10 +1,9 @@
 ## Profile
 👩 문은서 <br>
 👶 1995.04.03 <br>
-📞 010-2067-0403 <br>
+📞 010-2967-0403 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiltkim99@gmail.com)](mailto:spiltkim99@gmail.com) <span><a href="[https://www.notion.so/3b772d5e640945bcbc6898805aaa0bdf](https://www.notion.so/36c68f5b9842423789d3ddea65e69b87)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dawn43214@gmail.com)](mailto:dawn43214@gmail.com) <span><a href="[https://www.notion.so/a9f147e8eec844789d55472aefe2633b?pvs=4](https://www.notion.so/a9f147e8eec844789d55472aefe2633b?pvs=4)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 <br>
