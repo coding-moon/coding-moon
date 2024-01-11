@@ -3,7 +3,7 @@
 👶 1995.04.03 <br>
 📞 010-2967-0403 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m9037m@gmail.com)](mailto:m9037m@gmail.com) <span><a href="https://www.notion.so/71efea68c82a40118f5f044cd54a3228"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m9037m@gmail.com)](mailto:m9037m@gmail.com) <span><a href="https://www.notion.so/a9f147e8eec844789d55472aefe2633b"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 <br>
